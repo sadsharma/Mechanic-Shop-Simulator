@@ -1,8 +1,9 @@
 # Mechanic-Shop-Simulator
 Objective: 
-  -Create a functioning program using linked lists that acts as a mechanic shop with two mechanics performing oil changes
+  - Create a functioning program using linked lists that acts as a mechanic shop with two mechanics performing oil     
+    changes
 Constraint: 
-  -The only cars that can be worked on are cars made by Ford, GMC, Chevy, Jeep, Dodge, Chrysler, and Lincoln (easily   
+  - The only cars that can be worked on are cars made by Ford, GMC, Chevy, Jeep, Dodge, Chrysler, and Lincoln (easily   
    modifiable).
 Needs to be able to:
   - Add cars to each mechanics list
